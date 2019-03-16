@@ -14,7 +14,7 @@ h4
 a{
     text-decoration: wavy;
 }
-li.redFont{
+.redFont{
     color: red;
 }
 ul.a {list-style-type: circle;}
