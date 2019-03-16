@@ -1,0 +1,21 @@
+h4
+{
+    display: inline;
+}
+#container
+{
+    box-align: center;
+    margin: 10px;
+    padding: 10px;
+    width: 800px;   
+    border: 1px solid black;
+    width: 90%;
+}
+a{
+    text-decoration: wavy;
+}
+li.redFont{
+    color: red;
+}
+ul.a {list-style-type: circle;}
+ul.b {list-style-type: square;}
